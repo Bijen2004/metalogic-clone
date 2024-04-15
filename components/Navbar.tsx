@@ -3,23 +3,25 @@ import React from 'react'
 
 const Navbar = () => {
   return (
-    <div className='bg-[#10103f]'>
+    <nav className='fixed top-0 w-full z-[1000] hidden lg:block'>
+        <div className='bg-[#10103f]'>
         <div className='flex justify-between max-w-[95%] mx-auto min-h-[60px] items-center'>
-            <div className='text-[white]'>
-                Metalogic
-            </div>
-            <div className='text-[white]'>
+            <Link href={'/'} className='text-[white] font-sans font-semibold'>
+                MetaLogic
+            </Link>
+            <div className='text-[white] flex gap-7'>
+                <Link href={'/'}>Home</Link>
                 <Link href={'/Services'}>Services</Link>
-                <Link href={'/Services'}>Services</Link>
-                <Link href={'/Services'}>Services</Link>
-                <Link href={'/Services'}>Services</Link>
-                <Link href={'/Services'}>Services</Link>
+                <Link href={'/Career'}>Career</Link>
+                <Link href={'/Blogs'}>Blogs</Link>
+                <Link href={'/About'}>About Us</Link>
             </div>
             <button className='text-[white] bg-[#df4242] px-[12px] py-[5px] font-semibold rounded-[8px]'>
                 Get in touch
             </button>
         </div>
     </div>
+    </nav>
   )
 }
 

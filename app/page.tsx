@@ -1,8 +1,13 @@
+import FirstSection from '@/components/Homepage/FirstSection'
+import Metalogic from '@/components/Homepage/Metalogic'
 import React from 'react'
 
 const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <FirstSection />
+      <Metalogic />
+    </div>
   )
 }
 
