@@ -5,3 +5,22 @@
 body,html{
   height: 100%;
 }
+
+.single-card:hover {
+  transform: rotateY(180deg);
+}
+
+.active-link {
+  position: relative;
+  color: white;
+}
+
+.active-link::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 50%;
+  height: 2px;
+  background-color: rgb(229, 59, 58);
+}
