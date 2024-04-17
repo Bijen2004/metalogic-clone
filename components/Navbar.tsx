@@ -29,7 +29,7 @@ const Navbar = () => {
     </div>
     </div>
     <nav className='sticky top-0 w-full z-[1000] hidden lg:block'>
-    <a className='text-white absolute left-[1200px] top-5 hover:scale-110  active:scale-105  transition cursor-pointer text-3xl' href='/Documentation.pdf' download><FaInfoCircle /></a>
+    <a className='text-white absolute left-[80%] top-5 hover:scale-110  active:scale-105  transition cursor-pointer text-3xl' href='/Documentation.pdf' download><FaInfoCircle /></a>
         <div className='bg-[rgb(0,28,72)] border-b border-white/10'>
         <div className='flex justify-between min-h-fit py-3 px-8 items-center'>
             <Link href={'/'} className='text-[white] font-sans font-semibold flex gap-4 items-center'>
