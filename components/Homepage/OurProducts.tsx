@@ -94,7 +94,7 @@ const ProductExplorer = () => {
                           />
                         </div>
                         <h1 className="absolute bottom-0 hidden p-4 text-ui-500 md:block">
-                          Trace the footsteps of your ancestors and discover your family tree's story.
+                          Trace the footsteps of your ancestors and discover your family tree&apos;s story.
                         </h1>
                       </div>
                       <div className="flex h-full flex-col px-4 pt-4">

@@ -133,7 +133,7 @@ const SnakeGraph = () => {
                 </h3>
               </div>
               <div className="p-6 pt-0">
-                Let's brainstorm together and explore creative ideas to solve
+                Let&apos;s brainstorm together and explore creative ideas to solve
                 your unique challenges.
               </div>
             </div>
@@ -149,7 +149,7 @@ const SnakeGraph = () => {
                 </h3>
               </div>
               <div className="p-6 pt-0">
-                Let's brainstorm together and explore creative ideas to solve
+                Let&apos;s brainstorm together and explore creative ideas to solve
                 your unique challenges.
               </div>
             </div>
@@ -166,7 +166,7 @@ const SnakeGraph = () => {
                 </h3>
               </div>
               <div className="p-6 pt-0">
-                Let's brainstorm together and explore creative ideas to solve
+                Let&apos;s brainstorm together and explore creative ideas to solve
                 your unique challenges.
               </div>
             </div>
@@ -182,7 +182,7 @@ const SnakeGraph = () => {
                 </h3>
               </div>
               <div className="p-6 pt-0">
-                Let's brainstorm together and explore creative ideas to solve
+                Let&apos;s brainstorm together and explore creative ideas to solve
                 your unique challenges.
               </div>
             </div>
@@ -198,7 +198,7 @@ const SnakeGraph = () => {
                 </h3>
               </div>
               <div className="p-6 pt-0">
-                Let's brainstorm together and explore creative ideas to solve
+                Let&apos;s brainstorm together and explore creative ideas to solve
                 your unique challenges.
               </div>
             </div>

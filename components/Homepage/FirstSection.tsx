@@ -105,7 +105,7 @@ const FirstSection = () => {
   const handleMouseLeave = () => {
     setIsVisible(true);
     mouseRef.current.hovered = false;
-    
+    draw();
   };
 
 
